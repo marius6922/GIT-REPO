@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Signature&family=Momo+Trust+Display&display=swap');
+
+.momo-trust-display-regular {
+  font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+
+    display: flex;
+    background-color: rgb(193, 231, 243);
+
+}
+
+.header{
+
+    background-color: rgb(39, 149, 185);
+    position: sticky;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    font-size: 20px;
+
+}
+
+.header-links {
+
+    color: white;
+    font-family: Momo Trust Display;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.header-links:hover{
+
+    color: rgb(4, 4, 173);
+    font-size: 20.5px;
+    transition: all 0.4s;
+
+}
+
+.LOGO {
+
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-family: Momo Trust Display;
+    font-size: 14px;
+
+}
+
+.inform-text{
+
+    color: black;
+    font-family: Momo Trust Display;
+    position: relative;
+    top: 90px;
+    left: 0px;
+    width: 100%;
+
+}
+
+.pic1 {
+
+    width: 500px;
+    height: 300px;
+
+}
+
+.inform-text2{
+
+    color: black;
+    font-family: Momo Trust Display;
+    position: relative;
+    top: 90px;
+    left: 0px;
+    width: 100%;
+
+}
